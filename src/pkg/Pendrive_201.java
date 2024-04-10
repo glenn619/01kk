@@ -7,5 +7,10 @@ public class Pendrive_201 {
 		
 		
 	}
+	int get_size()
+	{
+		return size;
+		
+	}
 
 }
